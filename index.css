@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    border: 0;
+    padding: 6px;
+}
+
+.letra{
+    font-family:Helvetica;
+    font-weight: bold;
+}
+
+.miclase{
+    border: 1px solid;
+    border-radius: 15px;
+    box-shadow: 0px 0px 5px 1px rgba(128, 128, 128, 0.878);
+}
+
